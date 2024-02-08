@@ -7,7 +7,7 @@ I'm a frontend Web developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Java
+Javascript, HTML, CSS, Bootstrap 
 
 
 ## 🔗 Links
